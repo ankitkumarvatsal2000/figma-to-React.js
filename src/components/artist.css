@@ -1,0 +1,191 @@
+.artist-head{
+    display: flex;
+
+    gap: 30px;
+    font: normal normal 600 16px/19px Gilroy;
+letter-spacing: 0px;
+color: #8D8D8D;
+opacity: 1;
+padding-top: 12px;
+}
+
+.artist-main{
+    height: 707px;
+    overflow: auto;
+}
+.first-p{
+    color: #101010;
+}
+.absolute-class{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 204px;
+    padding-left: 20px;
+    gap: 10px;
+
+}
+.absolute-class p{
+    margin: 0px;
+    color: white;
+    
+    
+}
+
+.relative{
+    position: relative;
+}
+.absolute-class img{
+    width: 35px;
+    height: 35px;
+}
+.second-para{
+    font-size: 10px;
+}
+.relative img{
+    padding-top: 21px;
+}
+
+/* For second img------------------------------------------------------------------------------------------------- */
+.absolute-class-1{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 334px;
+   padding-left: 20px;
+    gap: 10px;
+
+}
+
+.relative-1{
+    position: relative;
+}
+.second-para-1{
+    font-size: 10px;
+}
+.absolute-class-1 img{
+    width: 35px;
+    height: 35px;
+}
+.absolute-class-1 p{
+    margin: 0px;
+    color: white;
+    
+    
+}
+/* for third image---------------------------------------------------------------------------------------------- */
+
+.absolute-class-2{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 461px;
+    padding-left: 20px;
+    gap: 10px;
+
+}
+
+.relative-2{
+    position: relative;
+}
+.second-para-2{
+    font-size: 10px;
+}
+.absolute-class-2 img{
+    width: 35px;
+    height: 35px;
+}
+.absolute-class-2 p{
+    margin: 0px;
+    color: white;
+    
+    
+}
+
+
+
+/* four fourth ima---------------------------------------------- */
+.absolute-class-3{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 591px;
+    padding-left: 20px;
+    gap: 10px;
+
+}
+
+.relative-3{
+    position: relative;
+}
+.second-para-3{
+    font-size: 10px;
+}
+.absolute-class-3 img{
+    width: 35px;
+    height: 35px;
+}
+.absolute-class-3 p{
+    margin: 0px;
+    color: white;
+    
+    
+}
+
+/* for 5th imag/e ------------------------------------------------------------------------------------*/
+.absolute-class-4{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 721px;
+    padding-left: 20px;
+    gap: 10px;
+
+}
+
+.relative-4{
+    position: relative;
+}
+.second-para-4{
+    font-size: 10px;
+}
+.absolute-class-4 img{
+    width: 35px;
+    height: 35px;
+}
+.absolute-class-4 p{
+    margin: 0px;
+    color: white;
+    
+    
+}
+
+
+/* for 6th image --------------------------------------------------------------*/
+
+.absolute-class-5{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: px;
+    padding-left: 20px;
+    gap: 10px;
+
+}
+
+.relative-5{
+    position: relative;
+}
+.second-para-5{
+    font-size: 10px;
+}
+.absolute-class-5 img{
+    width: 35px;
+    height: 35px;
+}
+.absolute-class-5 p{
+    margin: 0px;
+    color: white;
+    
+    
+}

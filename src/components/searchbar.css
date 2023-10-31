@@ -1,0 +1,31 @@
+.inp{
+    width: 560px;
+    height: 70px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    position: relative;
+    padding-left: 32px;
+    
+}
+.search-icon{
+    position: absolute;
+    /* left: 290px; */
+    z-index: 1;
+    top: 46px;
+    padding-left: 10px;
+}
+
+.filter-icon{
+    position: absolute;
+    z-index: 1;
+    left: 905px;
+    top: 48px;
+}
+.filter{
+   position: absolute;
+    z-index: 1;
+    top: 50px;
+    left: 941px;
+
+}

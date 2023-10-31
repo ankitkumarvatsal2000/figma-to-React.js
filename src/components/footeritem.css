@@ -1,0 +1,22 @@
+ .all-footer img{
+    width: 180px;
+    height: 151px;
+}
+.footer-para-1{
+    color: black;
+ font-size: x-small;
+ padding-left: 10px;
+ font-weight: bold;
+}
+.all-para-footer{
+    display: flex;
+    gap: 80px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.footer-para-2{
+    color: green;
+    font-weight: bold;
+    font-size: medium;
+}

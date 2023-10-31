@@ -1,0 +1,6 @@
+.ra{
+    display: flex;
+    gap: 5px;
+    width: 600px;
+    overflow: auto;
+}

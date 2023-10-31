@@ -1,0 +1,28 @@
+.main{
+    width: 260px;
+    height: 707px;
+    background: #fff8f8;
+    border-radius: 10px;
+}
+.logout{
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 70px;
+    padding-left: 46px;
+   font: normal normal 600 16px/19px Gilroy;
+letter-spacing: 0px;
+color: #88C2BB;
+opacity: 1;
+}
+.copyright{
+    display: flex;
+    gap: 16px;
+    font-size: small;
+    font: normal normal 600 13px/12px Gilroy;
+letter-spacing: 0px;
+color: #8D8D8D;
+opacity: 1;
+padding-top: 17px;
+}

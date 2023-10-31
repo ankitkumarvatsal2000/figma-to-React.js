@@ -1,0 +1,18 @@
+.main-div{
+    
+    background: #f7f2f2 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+width: 260px;
+height: 80px;
+}
+.log{
+
+font: normal normal normal 32px/44px Mongolian Baiti;
+letter-spacing: 0px;
+color: #101010;
+opacity: 1;
+padding-left: 40px;
+padding-top: 20px;
+}
+
